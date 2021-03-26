@@ -1,0 +1,38 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Raja0602!!",
+    "database": "user_management",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "logging": false,
+    "query": {
+      "raw": true
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "user_management",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "logging": false,
+    "query": {
+      "raw": true
+    }
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "user_management",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "logging": false,
+    "query": {
+      "raw": true
+    }
+  }
+}
