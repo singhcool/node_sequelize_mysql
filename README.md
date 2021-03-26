@@ -27,6 +27,7 @@ Change the database name, username, password in `config/config.json`
 `npm install nodemon -g` <br />
 `npm install` <br />
 `npm start` <br />
+`http://localhost:3000/api-docs`
 
 ## Stay in touch
 
